@@ -1,6 +1,8 @@
 # EatHealthyWeb
 Web application that gives healthier food recommendations
+
 This application gives a healthier recommendation for a food item, based on user input. The healthier food item is the first food belonging to same category that has lesser sugar content.
+
 How it works currently:
 1) User uploads a food image to the start web page (UploadImage.html)
 2) The app sends the image to the google vision api (https://cloud.google.com/vision/)
